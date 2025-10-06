@@ -1,0 +1,28 @@
+SAGA HIKARI TEKNINDO SEJATI, PT                                        G256-04952
+                                                                                17/September/2025
+                                                                                B 9131 CDC
+
+
+
+
+AB2506-06227   1,966   kg   F22 SWCH18A3.22   CHQ (DA)/PC/SWCH18A/ROUND/3,22            6 COIL = 3 CR
+
+                                      0.000    I040/PO/SHTS/VI/29 (80410222)
+                                              I046/PO/SHTS/VIII/25 (80410222)         1,966 of 2,000
+AB2506-06226   2,986   kg   F22 SWCH18A4.01   CHQ (DA)/NK/SWCH18A/ROUND/4,01             6 CARRIER
+                                      0.000   I046/PO/SHTS/VIII/25 (80010208)         2,986 of 3,000
+AB2506-06247   938     kg   F22 SWCH45K4.85   CHQ (DA)/PC/SWCH45K/ROUND/04,85            2 CARRIER
+
+                                      0.000   I046/PO/SHTS/VIII/25 (80410397)          938 of 1,000
+AB2506-06265   935     kg   F22 SCM435 11.9   CHQ (DA)/PC/SCM435/ROUND/11,90             1 CARRIER
+
+                                      0.000   I046/PO/SHTS/VIII/25 (80410504)          935 of 1,000
+AB2506-06224   997     kg   F22 SWCH10A5.24   CHQ (DA)/NK/SWCH10A/ROUND/5,24             1 CARRIER
+
+                                      0.000    I022/PO/SHTS/X/15 (80010035)
+                                              I046/PO/SHTS/VIII/25 (80010035)          997 of 1,000
+AB2506-06260   960     kg   F22 SCM435 7.85   CHQ (DA)/NP/SCM435/ROUND/07,85             1 CARRIER
+                                      0.000   I046/PO/SHTS/VIII/25 (80010152)          960 of 1,000
+AB2506-06229   362     kg   F22 SWCH18A4.57   CHQ (DA)/PC/SWCH18A/ROUND/4,57             1 CARRIER
+
+                                      0.000   I046/PO/SHTS/VIII/25 (80410236)          362 of 512
