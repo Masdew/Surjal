@@ -1,0 +1,255 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.42 m/m                        2,026.0 KG      2,092.0 KG 20 COIL/3CARR-Q3
+                    [1] => 955
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 955
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.42
+                    [1] => 989
+                )
+
+            [3] => Array
+                (
+                    [0] => 20 COIL/3CARR-Q3
+                    [1] => 1048
+                )
+
+        )
+
+    [1] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 3.49 m/m                        1,020.0 KG      1,042.0 KG 10 COIL/1CARR-Q3
+                    [1] => 1106
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1106
+                )
+
+            [2] => Array
+                (
+                    [0] => 3.49
+                    [1] => 1140
+                )
+
+            [3] => Array
+                (
+                    [0] => 10 COIL/1CARR-Q3
+                    [1] => 1199
+                )
+
+        )
+
+    [2] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.51 m/m                          122.0 KG        122.0       1 COIL-Q3
+                    [1] => 1395
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1395
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.51
+                    [1] => 1429
+                )
+
+            [3] => Array
+                (
+                    [0] => 1 COIL-Q3
+                    [1] => 1491
+                )
+
+        )
+
+    [3] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.51 m/m                          464.0 KG        486.0 KG 4 COIL/1CARR-Q3
+                    [1] => 1542
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1542
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.51
+                    [1] => 1576
+                )
+
+            [3] => Array
+                (
+                    [0] => 4 COIL/1CARR-Q3
+                    [1] => 1635
+                )
+
+        )
+
+    [4] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.51 m/m                          385.0 KG        407.0 KG 4 COIL/1CARR-Q3
+                    [1] => 1692
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1692
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.51
+                    [1] => 1726
+                )
+
+            [3] => Array
+                (
+                    [0] => 4 COIL/1CARR-Q3
+                    [1] => 1785
+                )
+
+        )
+
+    [5] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.7 m/m                           300.0 KG        300.0       3 COIL-Q3
+                    [1] => 1842
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1842
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.7
+                    [1] => 1876
+                )
+
+            [3] => Array
+                (
+                    [0] => 3 COIL-Q3
+                    [1] => 1938
+                )
+
+        )
+
+    [6] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.7 m/m                           430.0 KG        452.0 KG 5 COIL/1CARR-Q3
+                    [1] => 1989
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 1989
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.7
+                    [1] => 2023
+                )
+
+            [3] => Array
+                (
+                    [0] => 5 COIL/1CARR-Q3
+                    [1] => 2082
+                )
+
+        )
+
+    [7] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 2.7 m/m                           304.0 KG        326.0 KG 3 COIL/1CARR-Q3
+                    [1] => 2139
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 2139
+                )
+
+            [2] => Array
+                (
+                    [0] => 2.7
+                    [1] => 2173
+                )
+
+            [3] => Array
+                (
+                    [0] => 3 COIL/1CARR-Q3
+                    [1] => 2232
+                )
+
+        )
+
+    [8] => Array
+        (
+            [0] => Array
+                (
+                    [0] => SWCH18A          Steel Wire diam. 4.01 m/m                        1,043.0 KG      1,149.0 KG 4 CARRIER-Q3
+                    [1] => 2289
+                )
+
+            [1] => Array
+                (
+                    [0] => SWCH18A
+                    [1] => 2289
+                )
+
+            [2] => Array
+                (
+                    [0] => 4.01
+                    [1] => 2323
+                )
+
+            [3] => Array
+                (
+                    [0] => 4 CARRIER-Q3
+                    [1] => 2382
+                )
+
+        )
+
+)

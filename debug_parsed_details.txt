@@ -1,0 +1,597 @@
+Array
+(
+    [0] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 027-R09197D
+            [nw] => 81
+        )
+
+    [1] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 028-R09197D
+            [nw] => 111
+        )
+
+    [2] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 029-R09197D
+            [nw] => 111
+        )
+
+    [3] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 030-R09197D
+            [nw] => 113
+        )
+
+    [4] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 036-R09197D
+            [nw] => 110
+        )
+
+    [5] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 037-R09197D
+            [nw] => 110
+        )
+
+    [6] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 038-R09197D
+            [nw] => 100
+        )
+
+    [7] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 039-R09197D
+            [nw] => 100
+        )
+
+    [8] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 040-R09197D
+            [nw] => 111
+        )
+
+    [9] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 049-R09197D
+            [nw] => 100
+        )
+
+    [10] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 053-R09197D
+            [nw] => 100
+        )
+
+    [11] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 054-R09197D
+            [nw] => 96
+        )
+
+    [12] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 055-R09197D
+            [nw] => 100
+        )
+
+    [13] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 056-R09197D
+            [nw] => 100
+        )
+
+    [14] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 057-R09197D
+            [nw] => 100
+        )
+
+    [15] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 058-R09197D
+            [nw] => 100
+        )
+
+    [16] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 059-R09197D
+            [nw] => 90
+        )
+
+    [17] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 060-R09197D
+            [nw] => 92
+        )
+
+    [18] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 063-R09197D
+            [nw] => 100
+        )
+
+    [19] => Array
+        (
+            [block] => 1
+            [grade] => SWCH18A
+            [size] => 2.42
+            [item_no] => 80010550
+            [heat_no] => 3UC37
+            [coil] => 64D-R09197D
+            [nw] => 101
+        )
+
+    [20] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 001-R09251
+            [nw] => 101
+        )
+
+    [21] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 002-R09251
+            [nw] => 101
+        )
+
+    [22] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 003-R09251
+            [nw] => 101
+        )
+
+    [23] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 004-R09251
+            [nw] => 101
+        )
+
+    [24] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 005-R09251
+            [nw] => 140
+        )
+
+    [25] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 006-R09251
+            [nw] => 101
+        )
+
+    [26] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 007-R09251
+            [nw] => 101
+        )
+
+    [27] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 008-R09251
+            [nw] => 101
+        )
+
+    [28] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 009-R09251
+            [nw] => 100
+        )
+
+    [29] => Array
+        (
+            [block] => 2
+            [grade] => SWCH18A
+            [size] => 3.49
+            [item_no] => 80410416
+            [heat_no] => 3UC37
+            [coil] => 010-R09251
+            [nw] => 73
+        )
+
+    [30] => Array
+        (
+            [block] => 3
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 2PL36
+            [coil] => 026-R05174E
+            [nw] => 122
+        )
+
+    [31] => Array
+        (
+            [block] => 4
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 031-R07246
+            [nw] => 100
+        )
+
+    [32] => Array
+        (
+            [block] => 4
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 032-R07246
+            [nw] => 120
+        )
+
+    [33] => Array
+        (
+            [block] => 4
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 034-R07246
+            [nw] => 120
+        )
+
+    [34] => Array
+        (
+            [block] => 4
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 035-R07246
+            [nw] => 124
+        )
+
+    [35] => Array
+        (
+            [block] => 5
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 029-R08245C
+            [nw] => 110
+        )
+
+    [36] => Array
+        (
+            [block] => 5
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 030-R08245C
+            [nw] => 100
+        )
+
+    [37] => Array
+        (
+            [block] => 5
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 3U981
+            [coil] => 073-R08245C
+            [nw] => 84
+        )
+
+    [38] => Array
+        (
+            [block] => 5
+            [grade] => SWCH18A
+            [size] => 2.51
+            [item_no] => 80010550
+            [heat_no] => 3U981
+            [coil] => 074-R08245C
+            [nw] => 91
+        )
+
+    [39] => Array
+        (
+            [block] => 6
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 027-R07301
+            [nw] => 100
+        )
+
+    [40] => Array
+        (
+            [block] => 6
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 028-R07301
+            [nw] => 100
+        )
+
+    [41] => Array
+        (
+            [block] => 6
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU49
+            [coil] => 029-R07301
+            [nw] => 100
+        )
+
+    [42] => Array
+        (
+            [block] => 7
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU46
+            [coil] => 006-R06296
+            [nw] => 57
+        )
+
+    [43] => Array
+        (
+            [block] => 7
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU46
+            [coil] => 008-R06296
+            [nw] => 84
+        )
+
+    [44] => Array
+        (
+            [block] => 7
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU46
+            [coil] => 013-R06296
+            [nw] => 98
+        )
+
+    [45] => Array
+        (
+            [block] => 7
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU46
+            [coil] => 034-R06296
+            [nw] => 101
+        )
+
+    [46] => Array
+        (
+            [block] => 7
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 2PU46
+            [coil] => 035-R06296
+            [nw] => 90
+        )
+
+    [47] => Array
+        (
+            [block] => 8
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 005-R08316
+            [nw] => 103
+        )
+
+    [48] => Array
+        (
+            [block] => 8
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 006-R08316
+            [nw] => 101
+        )
+
+    [49] => Array
+        (
+            [block] => 8
+            [grade] => SWCH18A
+            [size] => 2.70
+            [item_no] => 80010550
+            [heat_no] => 3UA57
+            [coil] => 007-R08316
+            [nw] => 100
+        )
+
+    [50] => Array
+        (
+            [block] => 9
+            [grade] => SWCH18A
+            [size] => 4.01
+            [item_no] => 80010095
+            [heat_no] => 2PU49
+            [coil] => 015-R08282A
+            [nw] => 253
+        )
+
+    [51] => Array
+        (
+            [block] => 9
+            [grade] => SWCH18A
+            [size] => 4.01
+            [item_no] => 80010095
+            [heat_no] => 2PU49
+            [coil] => 055-R08282A
+            [nw] => 251
+        )
+
+    [52] => Array
+        (
+            [block] => 9
+            [grade] => SWCH18A
+            [size] => 4.01
+            [item_no] => 80010095
+            [heat_no] => 2PU49
+            [coil] => 073-R08282A
+            [nw] => 286
+        )
+
+    [53] => Array
+        (
+            [block] => 9
+            [grade] => SWCH18A
+            [size] => 4.01
+            [item_no] => 80010095
+            [heat_no] => 3U981
+            [coil] => 083-R08282A
+            [nw] => 253
+        )
+
+)

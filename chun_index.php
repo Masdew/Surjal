@@ -54,37 +54,46 @@ session_start();
         $parsed = $_SESSION['parsed'];
     ?>
       <h5>Hasil Parsing (Preview) — <?= strtoupper(htmlspecialchars($parsed['type'])) ?></h5>
-      <p><b>No Surat:</b> <?= htmlspecialchars($parsed['header']['no_surat'] ?? '-') ?> |
-         <b>Tanggal:</b> <?= htmlspecialchars($parsed['header']['tanggal'] ?? '-') ?></p>
+      <p>
+        <b>No Surat:</b> <?= htmlspecialchars($parsed['header']['no_surat'] ?? '-') ?> |
+        <b>Tanggal:</b> <?= htmlspecialchars($parsed['header']['tanggal'] ?? '-') ?>
+      </p>
 
       <?php if ($parsed['type'] === 'packing'): ?>
         <table class="table table-sm table-bordered">
           <thead class="table-light">
-            <tr><th>Grade</th><th>Size</th><th>J/O No</th><th>Heat No</th><th>Coil</th><th>NW</th><th>GW</th></tr>
+            <tr>
+              <th>Grade</th>
+              <th>Size</th>
+              <th>Heat No</th>
+              <th>Coil</th>
+              <th>NW (kg)</th>
+            </tr>
           </thead>
           <tbody>
             <?php foreach ($parsed['details'] as $d): ?>
               <tr>
-                <td><?= htmlspecialchars($d['item_no'] ?? '-') ?></td>
+                <td><?= htmlspecialchars($d['grade'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['size'] ?? '-') ?></td>
-                <td><?= htmlspecialchars($d['jo_no'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['heat_no'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['coil'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['nw'] ?? '-') ?></td>
-                <td><?= htmlspecialchars($d['gw'] ?? '-') ?></td>
               </tr>
             <?php endforeach; ?>
           </tbody>
         </table>
+
       <?php else: ?>
         <table class="table table-sm table-bordered">
           <thead class="table-light">
-            <tr><th>Item No</th><th>Description</th><th>Pack & Remark</th></tr>
+            <tr>
+              <th>Description</th>
+              <th>Pack & Remark</th>
+            </tr>
           </thead>
           <tbody>
             <?php foreach ($parsed['details'] as $d): ?>
               <tr>
-                <td><?= htmlspecialchars($d['item_no'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['description'] ?? '-') ?></td>
                 <td><?= htmlspecialchars($d['pack_remark'] ?? '-') ?></td>
               </tr>
@@ -99,7 +108,13 @@ session_start();
       </form>
     <?php endif; ?>
 
-    <?php if (isset($_GET['clear'])) { unset($_SESSION['parsed']); header('Location: chun_index.php'); exit; } ?>
+    <?php 
+    if (isset($_GET['clear'])) { 
+      unset($_SESSION['parsed']); 
+      header('Location: chun_index.php'); 
+      exit; 
+    } 
+    ?>
 
   </div>
 </div>
